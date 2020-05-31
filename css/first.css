@@ -582,9 +582,12 @@ img {
 	border: 1px solid rgba(0,164,255,1);
 	font-size:16px;
 	font-weight:400;
-	color:rgba(0,164,255,1);
 	line-height:15px;
 	text-align: center;
+}
+
+.click4-3 a{
+	color:rgba(0,164,255,1);
 }
 
 .click4-4{
